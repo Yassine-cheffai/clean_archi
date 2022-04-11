@@ -1,0 +1,11 @@
+- https://www.youtube.com/watch?v=bieO6YOZ4uc
+- durability, utility, beauty
+- architecture = the art and science in which the components of a computer asystem are organised and integrated
+- clean = you know where things are, why components are there, what something is
+- what ever is in a layer, can not see what is outside
+- if you don't think about architecture, the framework you are using will do it for you, ex: django
+- be reasonable; try to understand why a methodology leads to a solution and adopt it if it fits your need
+- decouple the the web framework from the use case
+- one of the main advantages of the clean architecture is that is testable, we can test the components in a isolation
+- unit testing: testing the use case
+- integration testing: testing the web framework apis/endpoints
